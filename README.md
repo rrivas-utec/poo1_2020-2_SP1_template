@@ -30,7 +30,7 @@ El pago por la compra es: 12000.0 Soles
 ```
 El pago por la compra es: 18000.0 Soles
 ```
-####Ejemplo 2
+#### Ejemplo 2
 **Input**
 ```
 1000
@@ -63,7 +63,7 @@ Para el ingreso de datos no usar etiquetas
 ```
 El Triangulo valido es equilatero
 ```
-####Ejemplo 1
+#### Ejemplo 1
 **Input**
 ```
 7
@@ -74,7 +74,7 @@ El Triangulo valido es equilatero
 ```
 No es triangulo valido
 ```
-####Ejemplo 2
+#### Ejemplo 2
 **Input**
 ```
 3
