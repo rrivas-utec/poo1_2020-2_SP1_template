@@ -1,6 +1,13 @@
 # Set de Problemas #1
 Ejercicios sobre estructuras de control selectivas y estructuras de control repetitivas del curso de programación orientada a objetos 1 (CS1102).
 
+## Instrucciones
+
+- El proyecto cuenta con los archivos `SP1.h` y `SP1.cpp`.
+- Las declaraciones de las preguntas se encuentran en el archivo `SP1.h` y las definiciones en el archivo `SP1.cpp`.
+- Completar las respuestas dentro de esos archivos (`SP1.h`, `SP1.cpp`) y se requiere agregar alguna nueva función incluirla dentro de estos archivos.
+- Los archivos deberan ser subidos directamente a www.gradescope.com.
+
 ## Ejercicio # 1
 
 Escriba un programa que nos diga cuanto debemos pagar por nuestra compra. Si compramos al por mayor 1001 o más artículos nos descuentan el 40%, si compramos entre 251 y 1000 nos descuentan un 20%, y si compramos entre 101 y 250 un 10%. No hay descuento si adquirimos menores o iguales de 100 artículos.  
